@@ -48,7 +48,7 @@ Notenrechner
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
 | 5   |     |     |     |     |
-| 7   | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet |     |
+| 7   |     |     |     |     |
 | 8   |     |     |     |     |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
