@@ -23,14 +23,15 @@ Notenrechner
 
 19.1.2024
 
-- [ ] Knöpfe programmieren
 - [ ] Prozentkästchen programmieren (Prozent eingeben können um zu sagen wie viel die Note zählt)
+- [ ] Durchschnittkästchen programmiere
+- [ ] Note soll direkt während dem eingeben unten beim Durchschnittsknopf angezeigt werden
 - [ ] Tests machen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 1   |     |     |     |     |
-| ... |     |     |     |     |
+| 1   | Zwei Noten (Note1, Note2) mit Gewichtungen (40%, 60%)    | Neue Note (Note3) eingeben, Gewichtung auf 25% setzen    | Gesamtnote wird automatisch aktualisiert, unter Berücksichtigung der Gewichtung von Note3 im Durchschnitt    | Nein    |
+| 2 | Drei Noten (Note1, Note2, Note3) mit Gewichtungen (30%, 50%, 20%)    | Neue Note (Note4) eingeben, Gewichtung auf 15% setzen    | Gesamtnote wird automatisch aktualisiert, unter Berücksichtigung der Gewichtung von Note4 im Durchschnitt    |     |
 | 4   |     |     |     |     |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
@@ -40,7 +41,6 @@ Notenrechner
 ## 26.1.2024
 
 - [ ] Forms Design verfeinern
-- [ ] Note soll ausgerechnet werden und unten angezeigt werden
 - [ ] Man soll die Note speichern können
 - [ ] Testen
   
