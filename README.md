@@ -20,15 +20,44 @@ Notenrechner
 - [ ] Planen wie ich vorgehe
 - [ ] Forms design erstellen
 - [ ] Die ersten Kästchen programmieren mit den Formeln zum berechnen
-- [ ] 
 
-## 19.1.2024
+19.1.2024
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Knöpfe programmieren
+- [ ] Prozentkästchen programmieren (Prozent eingeben können um zu sagen wie viel die Note zählt)
+- [ ] Tests machen
 
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+| ... |     |     |     |     |
+| 4   |     |     |     |     |
 
+✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+
+☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
+## 26.1.2024
+
+- [ ] Forms Design verfeinern
+- [ ] Note soll ausgerechnet werden und unten angezeigt werden
+- [ ] Man soll die Note speichern können
+- [ ] Testen
+  
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 5   |     |     |     |     |
+| 7   | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet |     |
+| 8   |     |     |     |     |
+
+✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+
+☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
+## 16.2.2024
+
+✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ## Reflexion
 
