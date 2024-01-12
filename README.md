@@ -31,8 +31,7 @@ Notenrechner
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
 | 1   | Zwei Noten (Note1, Note2) mit Gewichtungen (40%, 60%)    | Neue Note (Note3) eingeben, Gewichtung auf 25% setzen    | Gesamtnote wird automatisch aktualisiert, unter Berücksichtigung der Gewichtung von Note3 im Durchschnitt    | Nein    |
-| 2 | Drei Noten (Note1, Note2, Note3) mit Gewichtungen (30%, 50%, 20%)    | Neue Note (Note4) eingeben, Gewichtung auf 15% setzen    | Gesamtnote wird automatisch aktualisiert, unter Berücksichtigung der Gewichtung von Note4 im Durchschnitt    |     |
-| 4   |     |     |     |     |
+| 2 | Drei Noten (Note1, Note2, Note3) mit Gewichtungen (30%, 50%, 20%)    | Neue Note (Note4) eingeben, Gewichtung auf 15% setzen    | Gesamtnote wird automatisch aktualisiert, unter Berücksichtigung der Gewichtung von Note4 im Durchschnitt    | Nein    |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -47,9 +46,9 @@ Notenrechner
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
+| 3   | Mehrere Noten     | Noten speichern durch Klick auf die Speichern-Schaltfläche    | Eingegebene Noten werden erfolgreich gespeichert, Bestätigungsmeldung    | Nein    |
+| 4   | Forms ist geöffnet, Noten und Design vorhanden    | Durchführung von Tests auf Forms    | Forms zeigt keine unerwarteten Fehler, alle Aktionen werden erfolgreich durchgeführt    | Nein    |
 | 5   |     |     |     |     |
-| 7   |     |     |     |     |
-| 8   |     |     |     |     |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
