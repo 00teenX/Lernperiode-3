@@ -23,41 +23,29 @@ Notenrechner
 
 19.1.2024
 
-- [ ] Prozentkästchen programmieren (Prozent eingeben können um zu sagen wie viel die Note zählt)
-- [ ] Durchschnittkästchen programmieren
-- [ ] Note soll direkt während dem eingeben unten beim Durchschnittsknopf angezeigt werden
+- [ ] Berechnen Knopf programmieren
+- [ ] Löschen Knopf berechnen
 - [ ] Tests machen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 1   | Zwei Noten (Note1, Note2) mit Gewichtungen (50%, 100%)    | Neue Note (Note3) eingeben, Gewichtung auf 25% setzen    | Gesamtnote wird automatisch aktualisiert, unter Berücksichtigung der Gewichtung von Note3 im Durchschnitt    | Nein    |
-| 2 | Drei Noten (Note1, Note2, Note3) mit Gewichtungen (50%, 75%, 100%)    | Neue Note (Note4) eingeben, Gewichtung auf 200% setzen    | Gesamtnote wird automatisch aktualisiert, unter Berücksichtigung der Gewichtung von Note4 im Durchschnitt    | Nein    |
-| 3   | Noten und Gewichtungen sind bereits im System eingetragen    | Eine weitere Note (Note5) mit 100% Gewichtung wird hinzugefügt    | Gesamtnote wird entsprechend aktualisiert, Gewichtung von Note5 wird berücksichtigt    | Nein    |
+| 1   | Zwei Noten    | Neue Note (Note3) eingeben   | Gesamtnote wird automatisch aktualisiert, unter Berücksichtigung der Note3 im Durchschnitt    | Ja    |
+| 2 | Drei Noten (Note1, Note2, Note3)    | Neue Note (Note4) eingeben    | Gesamtnote wird automatisch aktualisiert, unter Berücksichtigung der Note4 im Durchschnitt    | Ja    |
+| 3   | Noten und Gewichtungen sind bereits im System eingetragen    | Eine weitere Note (Note5)   | Gesamtnote wird entsprechend aktualisiert, unter Berücksichtigung der Note5 wird berücksichtigt    | Ja    |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 26.1.2024
 
+- [ ] Man muss zwei Noten oder mehr eingeben sonst kommt eine Fehlermeldung
 - [ ] Forms Design verfeinern
-- [ ] Man soll die Note speichern können
 - [ ] Testen
   
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 4   | Mehrere Noten     | Noten speichern durch Klick auf die Speichern-Schaltfläche    | Eingegebene Noten werden erfolgreich gespeichert, Bestätigungsmeldung    | Nein    |
-| 5   | Forms ist geöffnet, Noten und Design vorhanden    | Durchführung von Tests auf Forms    | Forms zeigt keine unerwarteten Fehler, alle Aktionen werden erfolgreich durchgeführt    | Nein    |
+| 4   | Keine Note     | Eine Note    | Fehlermeldung: "Bitte füllen Sie mindestens zwei Textboxen aus."   | Ja    |
+| 5   | Forms ist geöffnet, Design vorhanden    | Eingabe von Noten, berechnung und das leeren aller Textboxen    | Forms zeigt keine unerwarteten Fehler, alle Aktionen werden erfolgreich durchgeführt    | Ja    |
 | 6   |     |     |     |     |
-
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
-
-## 16.2.2024
-
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ## Reflexion
 
