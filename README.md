@@ -17,15 +17,15 @@ Notenrechner
 
 ## 12.1.2024
 
-- [ ] Planen wie ich vorgehe
-- [ ] Forms design erstellen
-- [ ] Die ersten Kästchen programmieren mit den Formeln zum berechnen
+- [x] Planen wie ich vorgehe
+- [x] Forms design erstellen
+- [x] Die ersten Kästchen programmieren mit den Formeln zum berechnen
 
 19.1.2024
 
-- [ ] Berechnen Knopf programmieren
-- [ ] Löschen Knopf berechnen
-- [ ] Tests machen
+- [x] Berechnen Knopf programmieren
+- [x] Löschen Knopf berechnen
+- [x] Tests machen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
@@ -36,9 +36,9 @@ Notenrechner
 
 ## 26.1.2024
 
-- [ ] Man muss zwei Noten oder mehr eingeben sonst kommt eine Fehlermeldung
-- [ ] Forms Design verfeinern
-- [ ] Testen
+- [x] Man muss zwei Noten oder mehr eingeben sonst kommt eine Fehlermeldung
+- [x] Forms Design verfeinern
+- [x] Testen
   
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
