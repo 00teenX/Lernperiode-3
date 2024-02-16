@@ -49,6 +49,11 @@ Notenrechner
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+In den letzten Wochen habe ich daran gearbeitet, ein Programm zu entwickeln, das Noten berechnen kann.
 
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 10-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Zuerst habe ich das Aussehen des Programms geplant und entworfen. Dann habe ich angefangen, die Funktionen zu programmieren, die die Noten berechnen und löschen können. Beim Berechnen habe ich gemerkt, dass wenn man eine Note mit Komma eingegeben hat, es falsch ausgerechnet wurde. Ich habe es so programmiert, sodass die Kommas zu Punkten werden und dann hats funktioniert. Glücklicherweise lief der Rest reibungslos und ich konnte alles rechtzeitig fertigstellen.
+
+Ein anderes Problem, auf das ich gestossen bin, war, dass ich herausfinden musste, wie ich sicherstellen kann, dass mindestens zwei Noten eingegeben werden, bevor das Programm arbeiten kann. Das hat etwas länger gedauert, aber schlussendlich habe ich eine Lösung gefunden.
+
+Alles in allem bin ich zufrieden mit meiner Arbeit. Das Programm funktioniert, wie es soll, und ich habe dabei auch noch einiges gelernt. 
+
