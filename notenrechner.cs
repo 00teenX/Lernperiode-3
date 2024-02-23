@@ -1,7 +1,3 @@
-## Code
-
-```csharp
-
 namespace Notenrechner
 {
     public partial class Form1 : Form
